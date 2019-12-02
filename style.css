@@ -1,11 +1,13 @@
- *
+html
+{
+  scroll-behavior: smooth;
+}
+*
  {
    padding: 0;
    margin: 0;
  }
-html {
-  scroll-behavior: smooth;
-}
+
 .header
 {
   height: 100%;
