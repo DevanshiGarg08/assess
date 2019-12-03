@@ -12,6 +12,7 @@
 *	HTML 5
 *	CSS 3
 *	JavaScript
+* BootStrap
 *	AJAX
 
 ## APIS End Points:
